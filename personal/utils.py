@@ -1,7 +1,7 @@
 import zstandard
 import json
 import os
-from zst_blocks import ZstBlocksFile
+from personal.zst_blocks import ZstBlocksFile
 
 
 def read_obj_zst(file_name):
